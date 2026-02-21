@@ -2,7 +2,7 @@ Hi 👋, I'm Anant Patriwala
 
 "From Logic to Launch — Crafting Real-World Applications."
 
-🎓 BCA Graduate (First Class with Distinction) | MSCIT Student
+🎓 BCA Graduate (First Class with Distinction) | MSCIT Student | 
 💻 Full Stack Developer
 👨‍💻 PHP Development
 📱 Java & Flutter Developer
